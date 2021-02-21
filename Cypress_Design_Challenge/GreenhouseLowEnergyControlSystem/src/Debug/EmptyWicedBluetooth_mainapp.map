@@ -1,0 +1,833 @@
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .text          0x00000000        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .data          0x00000000        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .bss           0x00000000        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .text          0x00000000        0x0 ./GeneratedSource/cycfg.o
+ .data          0x00000000        0x0 ./GeneratedSource/cycfg.o
+ .bss           0x00000000        0x0 ./GeneratedSource/cycfg.o
+ .text.init_cycfg_all
+                0x00000000        0x8 ./GeneratedSource/cycfg.o
+ .debug_info    0x00000000      0x5f3 ./GeneratedSource/cycfg.o
+ .debug_abbrev  0x00000000       0xe5 ./GeneratedSource/cycfg.o
+ .debug_aranges
+                0x00000000       0x20 ./GeneratedSource/cycfg.o
+ .debug_ranges  0x00000000       0x10 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000      0x10f ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000     0x12fa ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x1d ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x87 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x51 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0xef ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x6a ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000      0x1df ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000      0x174 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x58 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x17 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x35 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x9c ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x1c ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000     0x117c ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000      0x1ad ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x19 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x6d ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x4c ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x10 ./GeneratedSource/cycfg.o
+ .debug_line    0x00000000      0x4da ./GeneratedSource/cycfg.o
+ .debug_str     0x00000000     0xb260 ./GeneratedSource/cycfg.o
+ .comment       0x00000000       0x80 ./GeneratedSource/cycfg.o
+ .debug_frame   0x00000000       0x20 ./GeneratedSource/cycfg.o
+ .ARM.attributes
+                0x00000000       0x33 ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .text          0x00000000        0x0 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000     0x12fa ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x87 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x51 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0xef ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x6a ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x1df ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x1d ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x174 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x58 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x17 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x35 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x9c ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x1c ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000     0x117c ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x1ad ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x58 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x1f ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x43 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x20 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x18e ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x330 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x10 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x35 ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .text          0x00000000        0x0 ./GeneratedSource/cycfg_pins.o
+ .data          0x00000000        0x0 ./GeneratedSource/cycfg_pins.o
+ .bss           0x00000000        0x0 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000     0x12fa ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x1d ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x87 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x51 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0xef ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x6a ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000      0x1df ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000      0x174 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x58 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x17 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x35 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x9c ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x1c ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000     0x117c ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000      0x1ad ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x19 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x6d ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x4c ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x10 ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_routing.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_routing.o
+ .text          0x00000000        0x0 ./GeneratedSource/cycfg_routing.o
+ .data          0x00000000        0x0 ./GeneratedSource/cycfg_routing.o
+ .bss           0x00000000        0x0 ./GeneratedSource/cycfg_routing.o
+ .text.init_cycfg_routing
+                0x00000000        0x2 ./GeneratedSource/cycfg_routing.o
+ .debug_info    0x00000000       0x3b ./GeneratedSource/cycfg_routing.o
+ .debug_abbrev  0x00000000       0x2f ./GeneratedSource/cycfg_routing.o
+ .debug_aranges
+                0x00000000       0x20 ./GeneratedSource/cycfg_routing.o
+ .debug_ranges  0x00000000       0x10 ./GeneratedSource/cycfg_routing.o
+ .debug_macro   0x00000000       0x2a ./GeneratedSource/cycfg_routing.o
+ .debug_macro   0x00000000     0x12fa ./GeneratedSource/cycfg_routing.o
+ .debug_macro   0x00000000       0x46 ./GeneratedSource/cycfg_routing.o
+ .debug_line    0x00000000       0x79 ./GeneratedSource/cycfg_routing.o
+ .debug_str     0x00000000     0x5029 ./GeneratedSource/cycfg_routing.o
+ .comment       0x00000000       0x80 ./GeneratedSource/cycfg_routing.o
+ .debug_frame   0x00000000       0x20 ./GeneratedSource/cycfg_routing.o
+ .ARM.attributes
+                0x00000000       0x33 ./GeneratedSource/cycfg_routing.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .text          0x00000000        0x0 ./20819/generated/lib_installer.o
+ .data          0x00000000        0x0 ./20819/generated/lib_installer.o
+ .bss           0x00000000        0x0 ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000     0x12fa ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000       0x22 ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000       0x87 ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000       0x51 ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000       0xef ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000       0x6a ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000      0x1df ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .text          0x00000000        0x0 ./app_bt_cfg.o
+ .bss           0x00000000        0x0 ./app_bt_cfg.o
+ .debug_macro   0x00000000     0x12fa ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x174 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x22 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x52 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x17 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x8d ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x35 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x9c ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x1c ./app_bt_cfg.o
+ .debug_macro   0x00000000     0x117c ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x1ad ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x46 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x1d ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x57 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0xef ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x6a ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x1df ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x22 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x93 ./app_bt_cfg.o
+ .debug_macro   0x00000000     0x3802 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x58 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x1f ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x43 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x20 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x18e ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x330 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x10 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x35 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x4a8 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x9e6 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0xde9 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0xa5 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x1d9 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x53a ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x26b ./app_bt_cfg.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .text          0x00000000        0x0 ./empty_wiced_bt.o
+ .data          0x00000000        0x0 ./empty_wiced_bt.o
+ .bss           0x00000000        0x0 ./empty_wiced_bt.o
+ .debug_macro   0x00000000     0x12fa ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x174 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x22 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x52 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x17 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x8d ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x35 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x9c ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x1c ./empty_wiced_bt.o
+ .debug_macro   0x00000000     0x117c ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x1ad ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x46 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x1d ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x57 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0xef ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x6a ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x1df ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x22 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x93 ./empty_wiced_bt.o
+ .debug_macro   0x00000000     0x3802 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x58 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x1f ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x43 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x20 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x18e ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x330 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x10 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x35 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x4a8 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x9e6 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0xde9 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0xa5 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0xd0 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x1d9 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x53a ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x26b ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0xbf ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x1f ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x6d ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .text          0x00000000        0x0 ./wiced_platform.o
+ .data          0x00000000        0x0 ./wiced_platform.o
+ .bss           0x00000000        0x0 ./wiced_platform.o
+ .text.wiced_platform_register_button_callback
+                0x00000000       0x44 ./wiced_platform.o
+ .text.wiced_platform_get_button_pressed_value
+                0x00000000       0x10 ./wiced_platform.o
+ .debug_macro   0x00000000     0x12fa ./wiced_platform.o
+ .debug_macro   0x00000000       0x1d ./wiced_platform.o
+ .debug_macro   0x00000000       0x22 ./wiced_platform.o
+ .debug_macro   0x00000000       0x87 ./wiced_platform.o
+ .debug_macro   0x00000000       0x51 ./wiced_platform.o
+ .debug_macro   0x00000000       0xef ./wiced_platform.o
+ .debug_macro   0x00000000       0x6a ./wiced_platform.o
+ .debug_macro   0x00000000      0x1df ./wiced_platform.o
+ .debug_macro   0x00000000       0x22 ./wiced_platform.o
+ .debug_macro   0x00000000      0x174 ./wiced_platform.o
+ .debug_macro   0x00000000       0x58 ./wiced_platform.o
+ .debug_macro   0x00000000       0x17 ./wiced_platform.o
+ .debug_macro   0x00000000       0x35 ./wiced_platform.o
+ .debug_macro   0x00000000       0x9c ./wiced_platform.o
+ .debug_macro   0x00000000       0x1c ./wiced_platform.o
+ .debug_macro   0x00000000     0x117c ./wiced_platform.o
+ .debug_macro   0x00000000      0x1ad ./wiced_platform.o
+ .debug_macro   0x00000000       0x19 ./wiced_platform.o
+ .debug_macro   0x00000000       0x6d ./wiced_platform.o
+ .debug_macro   0x00000000       0x34 ./wiced_platform.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ram              0x0020fac0         0x00060140         xrw
+aon              0x002031f4         0x00001380         xrw
+static_section   0x00500c00         0x00000400         r
+xip_section      0x00511500         0x0002ff00         xr
+log_section      0x81000004         0x00100000         r
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/internal/20819A1/patches/patch.elf
+START GROUP
+LOAD ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+LOAD ./GeneratedSource/cycfg.o
+LOAD ./GeneratedSource/cycfg_gatt_db.o
+LOAD ./GeneratedSource/cycfg_pins.o
+LOAD ./GeneratedSource/cycfg_routing.o
+LOAD ./20819/generated/lib_installer.o
+LOAD ./app_bt_cfg.o
+LOAD ./empty_wiced_bt.o
+LOAD ./wiced_platform.o
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/adc_audio_lib.a
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/multi_adv_lib.a
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/wiced_ble_pre_init_lib.a
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/wiced_hidd_lib.a
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/celt_lib.a
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/air_motion.a
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/adpcm_lib.a
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/ofu_ds2_lib.a
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/mesh_core_lib.a
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/mesh_models_lib.a
+LOAD C:/Users/joshb/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/mesh_provisioner_lib.a
+LOAD c:/users/joshb/modustoolbox_1.1/tools/gcc-7.2.1-1.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m\libgcc.a
+END GROUP
+                0x00000000                PROVIDE (spar_irom_length, (spar_irom_end - spar_irom_begin))
+                0x00000062                PROVIDE (spar_iram_length, (spar_iram_end - spar_iram_begin))
+                0x0000005d                PROVIDE (spar_iram_data_length, (spar_iram_data_end - spar_iram_data_begin))
+                0x00000002                PROVIDE (spar_iram_bss_length, (spar_iram_bss_end - spar_iram_bss_begin))
+                0x0020fac0                spar_irom_begin = 0x20fac0
+
+.app_xip_area   0x00511500      0x658
+ CREATE_OBJECT_SYMBOLS
+                0x00511500                xip_area_begin = .
+ */empty_wiced_bt.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ .text.app_gatt_callback
+                0x00511500       0xb8 ./empty_wiced_bt.o
+                0x00511500                app_gatt_callback
+ .text.application_start
+                0x005115b8       0x3c ./empty_wiced_bt.o
+                0x005115b8                application_start
+ .text.app_set_advertisement_data
+                0x005115f4       0x48 ./empty_wiced_bt.o
+                0x005115f4                app_set_advertisement_data
+ .text.app_bt_management_callback
+                0x0051163c       0x90 ./empty_wiced_bt.o
+ .rodata.str1.1
+                0x005116cc      0x12d ./empty_wiced_bt.o
+ */app_bt_cfg.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ *fill*         0x005117f9        0x3 
+ .rodata        0x005117fc       0x8a ./app_bt_cfg.o
+                0x005117fc                wiced_bt_cfg_buf_pools
+                0x0051180c                wiced_bt_cfg_settings
+                0x00511884                BT_LOCAL_NAME_CAPACITY
+ */GeneratedSource/cycfg_gatt_db.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x00511886      0x124 ./GeneratedSource/cycfg_gatt_db.o
+                0x00511886                app_greenhouse_target_target_light_len
+                0x00511888                app_greenhouse_target_target_temperature_len
+                0x0051188a                app_greenhouse_values_value_light_len
+                0x0051188c                app_greenhouse_values_value_temperature_len
+                0x0051188e                app_gap_appearance_len
+                0x00511890                app_gap_device_name_len
+                0x00511892                app_gatt_db_ext_attr_tbl_size
+                0x00511894                gatt_database_len
+                0x00511896                gatt_database
+ */spar_setup.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ */wiced_platform.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ *fill*         0x005119aa        0x2 
+ .text.wiced_platform_init
+                0x005119ac       0xac ./wiced_platform.o
+                0x005119ac                wiced_platform_init
+ */wiced_platform_pin_config.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ */lib_installer.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ .text.install_libs
+                0x00511a58        0x2 ./20819/generated/lib_installer.o
+                0x00511a58                install_libs
+ *(.pisec_*)
+ *(.data_in_xip_area)
+ *(.dsp_pram_section)
+ *(.app_init_code)
+ *fill*         0x00511a5a        0x2 
+ .app_init_code
+                0x00511a5c       0x20 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+                0x00511a5c                application_start_internal
+ *(.emb_text)
+ *(.text)
+ *(EmHeAacDec)
+ *(.text.*)
+ *(.gnu.linkonce.t.*)
+ *(i.*)
+ *(.glue_7t)
+ .glue_7t       0x00511a7c        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00511a7c        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00511a7c        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00511a7c        0x0 linker stubs
+ *(.init_code)
+ *(.init_text)
+ *(.spar_setup)
+ .spar_setup    0x00511a7c       0x90 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+                0x00511a7c                spar_crt_setup
+ *(.ARM.extab*)
+ *(.gnu.linkonce.armextab.*)
+ *(.ARM.exidx*)
+ *(.gnu.linkonce.armexidx.*)
+ *(const_drom_var)
+ *(.rodata)
+ .rodata        0x00511b0c       0x4c ./GeneratedSource/cycfg_pins.o
+                0x00511b0c                gpio_count
+                0x00511b10                button_count
+                0x00511b10                platform_gpio
+                0x00511b14                platform_button
+                0x00511b24                led_count
+                0x00511b28                platform_led
+                0x00511b40                platform_gpio_pins
+ *(.constdata*)
+ *(.rodata.*)
+ *(.gnu.linkonce.r.*)
+ *(.data.rom)
+                0x00511b58                spar_irom_end = .
+                0x00511b58                xip_area_end = .
+
+.text           0x0020fac0        0x0
+ CREATE_OBJECT_SYMBOLS
+ *(.app_init_code)
+ *(.emb_text)
+ *(.text)
+ *(.text.*)
+ *(EmHeAacDec)
+ *(.gnu.linkonce.t.*)
+ *(.glue_7t)
+ *(.glue_7)
+ *(.vfp11_veneer)
+ *(.v4_bx)
+ *(.ARM.extab*)
+ *(.gnu.linkonce.armextab.*)
+ *(.ARM.exidx*)
+ *(.gnu.linkonce.armexidx.*)
+
+.iplt           0x0020fac0        0x0
+ .iplt          0x0020fac0        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+
+.rel.dyn        0x0020fac0        0x0
+ .rel.iplt      0x0020fac0        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+
+.rodata         0x0020fac0        0x0
+ CREATE_OBJECT_SYMBOLS
+ *(const_drom_var)
+ *(.rodata)
+ *(.constdata*)
+ *(.rodata.*)
+ *(.gnu.linkonce.r.*)
+ *(.data.rom)
+                0x0020fac0                spar_irom_end = .
+
+.data           0x0020fac0       0x5d
+ CREATE_OBJECT_SYMBOLS
+                0x0020fac0                spar_iram_begin = .
+                0x0020fac0                spar_iram_data_begin = .
+ *(.data)
+ .data          0x0020fac0       0x50 ./GeneratedSource/cycfg_gatt_db.o
+                0x0020fac0                app_gatt_db_ext_attr_tbl
+                0x0020fb08                app_greenhouse_target_target_light
+                0x0020fb0a                app_greenhouse_target_target_temperature
+                0x0020fb0c                app_greenhouse_values_value_light
+                0x0020fb0e                app_greenhouse_values_value_temperature
+ .data          0x0020fb10        0xd ./app_bt_cfg.o
+                0x0020fb10                BT_LOCAL_NAME
+ *(.data.*)
+ *(.gnu.linkonce.d.*)
+ *(.init_patch_table)
+                0x0020fb1d                spar_iram_data_end = .
+                0x0020fac0                spar_irom_data_begin = spar_iram_data_begin
+
+.igot.plt       0x0020fb20        0x0
+ .igot.plt      0x0020fb20        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+
+.bss            0x0020fb20        0x2
+ CREATE_OBJECT_SYMBOLS
+                0x0020fb20                spar_iram_bss_begin = .
+ *(.bss)
+ .bss           0x0020fb20        0x2 ./GeneratedSource/cycfg_gatt_db.o
+                0x0020fb20                app_gap_appearance
+                0x0020fb22                app_gap_device_name
+ *(.bss.*)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+                0x0020fb22                spar_iram_bss_end = .
+                0x0020fb22                spar_iram_end = .
+
+.setup          0x0020fb24        0x0
+ CREATE_OBJECT_SYMBOLS
+ *(.init_code)
+ *(.init_text)
+ *(.spar_setup)
+
+.aon            0x002031f4        0x0
+ CREATE_OBJECT_SYMBOLS
+                0x002031f4                aon_iram_begin = .
+ *(always_on_ram_var)
+ *(.aon_code)
+ *(.data_in_retention_ram)
+ *(.code_in_retention_ram)
+                0x002031f4                aon_iram_end = .
+
+.static_area    0x00500c00        0x0
+ CREATE_OBJECT_SYMBOLS
+                0x00500c00                static_area_begin = .
+ *(.data_in_static_area)
+                0x00500c00                static_area_end = .
+
+.log_section    0x81000004        0x0
+ CREATE_OBJECT_SYMBOLS
+ *(log_data)
+OUTPUT(EmptyWicedBluetooth_mainapp.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x6239
+ .debug_info    0x00000000      0xa20 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_info    0x00000a20      0xad4 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_info    0x000014f4      0x7cc ./GeneratedSource/cycfg_pins.o
+ .debug_info    0x00001cc0       0x81 ./20819/generated/lib_installer.o
+ .debug_info    0x00001d41     0x1120 ./app_bt_cfg.o
+ .debug_info    0x00002e61     0x2c4a ./empty_wiced_bt.o
+ .debug_info    0x00005aab      0x78e ./wiced_platform.o
+
+.debug_abbrev   0x00000000      0xb7d
+ .debug_abbrev  0x00000000      0x1fe ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_abbrev  0x000001fe      0x1a0 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_abbrev  0x0000039e       0xd1 ./GeneratedSource/cycfg_pins.o
+ .debug_abbrev  0x0000046f       0x45 ./20819/generated/lib_installer.o
+ .debug_abbrev  0x000004b4      0x1e4 ./app_bt_cfg.o
+ .debug_abbrev  0x00000698      0x36e ./empty_wiced_bt.o
+ .debug_abbrev  0x00000a06      0x177 ./wiced_platform.o
+
+.debug_aranges  0x00000000       0xf8
+ .debug_aranges
+                0x00000000       0x28 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_aranges
+                0x00000028       0x18 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_aranges
+                0x00000040       0x18 ./GeneratedSource/cycfg_pins.o
+ .debug_aranges
+                0x00000058       0x20 ./20819/generated/lib_installer.o
+ .debug_aranges
+                0x00000078       0x18 ./app_bt_cfg.o
+ .debug_aranges
+                0x00000090       0x38 ./empty_wiced_bt.o
+ .debug_aranges
+                0x000000c8       0x30 ./wiced_platform.o
+
+.debug_ranges   0x00000000       0x88
+ .debug_ranges  0x00000000       0x18 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_ranges  0x00000018       0x10 ./20819/generated/lib_installer.o
+ .debug_ranges  0x00000028       0x40 ./empty_wiced_bt.o
+ .debug_ranges  0x00000068       0x20 ./wiced_platform.o
+
+.debug_macro    0x00000000     0xa125
+ .debug_macro   0x00000000      0x17b ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000017b     0x12fa ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00001475      0x174 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x000015e9       0x22 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000160b       0x52 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000165d       0x17 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00001674       0x8d ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00001701       0x35 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00001736       0x9c ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x000017d2       0x1c ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x000017ee     0x117c ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000296a      0x1ad ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002b17       0x2e ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002b45       0x16 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002b5b       0x57 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002bb2       0x58 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002c0a       0x1f ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002c29       0x43 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002c6c       0x20 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002c8c      0x18e ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002e1a      0x330 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000314a       0x10 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000315a       0x35 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000318f       0x1d ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x000031ac       0xef ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000329b       0x6a ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00003305      0x1df ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x000034e4       0x22 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00003506       0x1f ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00003525       0x6d ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00003592      0x1f0 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00003782       0xa0 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00003822      0x1d9 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x000039fb       0x46 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00003a41       0x93 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00003ad4     0x3802 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x000072d6      0x4a8 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x0000777e      0x9e6 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00008164      0xde9 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00008f4d       0xa5 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00008ff2      0x53a ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x0000952c      0x26b ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00009797      0x117 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x000098ae       0x59 ./20819/generated/lib_installer.o
+ .debug_macro   0x00009907      0x1f5 ./app_bt_cfg.o
+ .debug_macro   0x00009afc       0xd0 ./app_bt_cfg.o
+ .debug_macro   0x00009bcc       0xbf ./app_bt_cfg.o
+ .debug_macro   0x00009c8b      0x256 ./empty_wiced_bt.o
+ .debug_macro   0x00009ee1       0x34 ./empty_wiced_bt.o
+ .debug_macro   0x00009f15       0x10 ./empty_wiced_bt.o
+ .debug_macro   0x00009f25       0x58 ./empty_wiced_bt.o
+ .debug_macro   0x00009f7d       0x16 ./empty_wiced_bt.o
+ .debug_macro   0x00009f93       0xa6 ./empty_wiced_bt.o
+ .debug_macro   0x0000a039       0xec ./wiced_platform.o
+
+.debug_line     0x00000000     0x231e
+ .debug_line    0x00000000      0x59e ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_line    0x0000059e      0x54d ./GeneratedSource/cycfg_gatt_db.o
+ .debug_line    0x00000aeb      0x4c4 ./GeneratedSource/cycfg_pins.o
+ .debug_line    0x00000faf      0x19a ./20819/generated/lib_installer.o
+ .debug_line    0x00001149      0x54b ./app_bt_cfg.o
+ .debug_line    0x00001694      0x754 ./empty_wiced_bt.o
+ .debug_line    0x00001de8      0x536 ./wiced_platform.o
+
+.debug_str      0x00000000    0x3dd53
+ .debug_str     0x00000000     0xd05e ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+                               0xd362 (size before relaxing)
+ .debug_str     0x0000d05e    0x2ac36 ./GeneratedSource/cycfg_gatt_db.o
+                              0x379a7 (size before relaxing)
+ .debug_str     0x00037c94     0x111c ./GeneratedSource/cycfg_pins.o
+                               0xb941 (size before relaxing)
+ .debug_str     0x00038db0       0x23 ./20819/generated/lib_installer.o
+                               0x5d1b (size before relaxing)
+ .debug_str     0x00038dd3     0x1e26 ./app_bt_cfg.o
+                              0x38ef2 (size before relaxing)
+ .debug_str     0x0003abf9     0x2fb5 ./empty_wiced_bt.o
+                              0x3c1a8 (size before relaxing)
+ .debug_str     0x0003dbae      0x1a5 ./wiced_platform.o
+                               0xb410 (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 ./GeneratedSource/cycfg_gatt_db.o
+ .comment       0x0000007f       0x80 ./GeneratedSource/cycfg_pins.o
+ .comment       0x0000007f       0x80 ./20819/generated/lib_installer.o
+ .comment       0x0000007f       0x80 ./app_bt_cfg.o
+ .comment       0x0000007f       0x80 ./empty_wiced_bt.o
+ .comment       0x0000007f       0x80 ./wiced_platform.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .ARM.attributes
+                0x00000033       0x33 ./GeneratedSource/cycfg_gatt_db.o
+ .ARM.attributes
+                0x00000066       0x33 ./GeneratedSource/cycfg_pins.o
+ .ARM.attributes
+                0x00000099       0x33 ./20819/generated/lib_installer.o
+ .ARM.attributes
+                0x000000cc       0x33 ./app_bt_cfg.o
+ .ARM.attributes
+                0x000000ff       0x33 ./empty_wiced_bt.o
+ .ARM.attributes
+                0x00000132       0x33 ./wiced_platform.o
+
+.debug_frame    0x00000000      0x15c
+ .debug_frame   0x00000000       0x48 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_frame   0x00000048       0x20 ./20819/generated/lib_installer.o
+ .debug_frame   0x00000068       0x88 ./empty_wiced_bt.o
+ .debug_frame   0x000000f0       0x6c ./wiced_platform.o
+
+.debug_loc      0x00000000      0x2b6
+ .debug_loc     0x00000000      0x1d1 ./empty_wiced_bt.o
+ .debug_loc     0x000001d1       0xe5 ./wiced_platform.o

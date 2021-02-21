@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.josh.watermeter.Main"
+    android:screenOrientation="portrait">
+
+    <Button
+        android:text="Connect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/BT_Connect_But"
+        android:onClick="Bluetooth_Connect_XML"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Bluetooth Settings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/BT_Settings_But"
+        android:layout_above="@+id/BT_Connect_But"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="Bluetooth_Settings_XML"/>
+
+    <Button
+        android:text="Deactivate Isolator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Deactivate_Isolator_But"
+        android:layout_above="@+id/BT_Settings_But"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="DeactivateIsolator_XML"/>
+
+    <Button
+        android:text="Activate Isolator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Activate_Isolator_But"
+        android:layout_above="@+id/Deactivate_Isolator_But"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="ActivateIsolator_XML"/>
+
+    <TextView
+        android:text="Debug..."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/DebugText"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/Activate_Isolator_But"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Water Flow:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/WaterFlowText"
+        android:textSize="25sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"/>
+
+    <TextView
+        android:text="Isolator Status:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IsolatorText"
+        android:textSize="25sp"
+        android:layout_below="@+id/WaterFlowText"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"/>
+
+    <TextView
+        android:text="Isolator Error:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IsolatorErrorCodeText"
+        android:textSize="25sp"
+        android:layout_below="@+id/IsolatorText"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"/>
+
+    <TextView
+        android:text="Node Error:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/NodeErrorCodeText"
+        android:textSize="25sp"
+        android:layout_below="@+id/IsolatorErrorCodeText"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"/>
+
+</RelativeLayout>

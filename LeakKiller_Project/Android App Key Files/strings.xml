@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Watermeter</string>
+    <string name="FlowString">Water Flow: </string>
+    <string name="IsolatorStatus">Isolator Status: </string>
+    <string name="IsolatorError">Isolator Error: </string>
+    <string name="NodeError">Node Error: </string>
+    <string name="DebugDefault"></string>
+</resources>

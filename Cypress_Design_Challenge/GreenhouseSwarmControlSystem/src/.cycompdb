@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component_data>
+  <File wkspFile="libraries\fw_upgrade_lib\sha256.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\sha256.c" checksum="3EF4F96A3F02C3DF664F20FFF789AECAEB7B3AF4"/>
+  <File wkspFile="wiced_platform.h" installFile="bt_sdk-1.1\components\BT-SDK\208XX-A1_Bluetooth\platforms\CYBT_213043_MESH\wiced_platform.h" checksum="6C2996A353B3D1C00B2671032B69C581548C9491"/>
+  <File wkspFile="libraries\mesh_app_lib\wiced_bt_cfg.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\mesh_app_lib\wiced_bt_cfg.c" checksum="F1727B4CA331EB7252AD7CD1ECC168E037D0D5A4"/>
+  <File wkspFile="libraries\fw_upgrade_lib\sha256.h" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\sha256.h" checksum="EC67AA01CC8AAD81B946E594A68043EB1C46AEC2"/>
+  <File wkspFile="208XX_readme.txt" installFile="bt_sdk-1.1\components\BT-SDK\208XX-A1_Bluetooth\platforms\208XX_readme.txt" checksum="9B91C4FD8FCCFCDAEB7146A55E07E0AE57D910F4"/>
+  <File wkspFile="libraries\fw_upgrade_lib\ota_fw_upgrade.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\ota_fw_upgrade.c" checksum="69A2CB34D711F399387072F32060B92E812997F7"/>
+  <File wkspFile="wiced_platform.c" installFile="bt_sdk-1.1\components\BT-SDK\208XX-A1_Bluetooth\platforms\wiced_platform.c" checksum="D763531546398DBD49BEA02707C9723D58564A78"/>
+  <File wkspFile="libraries\fw_upgrade_lib\multprecision.h" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\multprecision.h" checksum="544349782895F84683ED20E58823938692F60DBF"/>
+  <File wkspFile="libraries\mesh_app_lib\mesh_app_provision_server.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\mesh_app_lib\mesh_app_provision_server.c" checksum="07E837841682D92E5ACE021331B24849F35DF43B"/>
+  <File wkspFile="libraries\fw_upgrade_lib\fw_upgrade.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\208XX-A1\fw_upgrade.c" checksum="4B9D1DCACEB2B8109C3EDAD78B115FFA4CA25A57"/>
+  <File wkspFile="design.modus" installFile="bt_sdk-1.1\components\BT-SDK\208XX-A1_Bluetooth\platforms\CYBT_213043_MESH\design.modus" checksum="66CE10F799BFEB8107498A059D5232E3BAC37F75"/>
+  <File wkspFile=".\readme.txt" installFile=".\readme.txt" checksum="AC9AE7427735C7897766E756F1F6A2E4930E0752"/>
+  <File wkspFile="libraries\fw_upgrade_lib\ota_fw_upgrade.h" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\ota_fw_upgrade.h" checksum="93FDC972B3637A0A3CC68A797E2FB885B6F53E18"/>
+  <File wkspFile="libraries\mesh_app_lib\mesh_application.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\mesh_app_lib\mesh_application.c" checksum="4F508899557B40420DE510331067BAE1B0A0A335"/>
+  <File wkspFile="libraries\mesh_app_lib\mesh_app_hci.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\mesh_app_lib\mesh_app_hci.c" checksum="44EFE728DADEC4D7CE4E30FF67619C0C5F1FE71D"/>
+  <File wkspFile="libraries\fw_upgrade_lib\ecc_pp.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\ecc_pp.c" checksum="6F869DC3D8C5AED8929A1DEABB268EE193C9FFF3"/>
+  <File wkspFile=".\mesh_level_server.c" installFile=".\mesh_level_server.c" checksum="5FD24C798674904651EFD97627D1D813705321D4"/>
+  <File wkspFile="libraries\fw_upgrade_lib\fw_update_copy_sflash.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\fw_update_copy_sflash.c" checksum="EB80636DA30E3EB61E253F65203EC18BE07A473D"/>
+  <File wkspFile="libraries\fw_upgrade_lib\p_256_ecc_pp.h" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\p_256_ecc_pp.h" checksum="FC8DD51A6007B8F152DC1B5A5A912F061CCADE5D"/>
+  <File wkspFile="libraries\fw_upgrade_lib\p_256_multprecision.h" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\p_256_multprecision.h" checksum="74C9CF3EE63D5D67B16E83B82CFA9108277B0F40"/>
+  <File wkspFile="libraries\fw_upgrade_lib\ota_fw_upgrade_common.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\ota_fw_upgrade_common.c" checksum="49C8D3C0A7093AC16518C1C4BC9DED60483D7988"/>
+  <File wkspFile="libraries\fw_upgrade_lib\p_256_types.h" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\fw_upgrade_lib\p_256_types.h" checksum="A8A1FCDBB1CC0C4E187FA4121B74240369D1CC84"/>
+  <File wkspFile="libraries\mesh_app_lib\mesh_app_gatt.c" installFile="bt_sdk-1.1\components\BT-SDK\common\libraries\mesh_app_lib\mesh_app_gatt.c" checksum="63F46D68C449A80406AF0D8314534CC97C81ACE0"/>
+  <artifact name="mainapp"/>
+</component_data>

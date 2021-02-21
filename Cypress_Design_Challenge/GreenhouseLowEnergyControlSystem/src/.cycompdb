@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component_data>
+  <File wkspFile="wiced_platform.h" installFile="bt_sdk-1.1\components\BT-SDK\208XX-A1_Bluetooth\platforms\CYW920819EVB_02\wiced_platform.h" checksum="E7CD53C0D3454AB7E4490D6C19CDD00760EA91FB"/>
+  <File wkspFile="design.modus" installFile="bt_sdk-1.1\components\BT-SDK\208XX-A1_Bluetooth\platforms\CYW920819EVB_02\design.modus" checksum="7B9CB9240E21C1598FF5D7994EE4DF35AC13D938"/>
+  <File wkspFile=".\readme.txt" installFile=".\readme.txt" checksum="EB6E6731A1F54FAF5F9E526C70AE629692A2741F"/>
+  <File wkspFile=".\GeneratedSource\cycfg_gatt_db.c" installFile=".\GeneratedSource\cycfg_gatt_db.c" checksum="E17D15EB471C4E42C0B2522F6E3D5DB331282373"/>
+  <File wkspFile="208XX_readme.txt" installFile="bt_sdk-1.1\components\BT-SDK\208XX-A1_Bluetooth\platforms\208XX_readme.txt" checksum="2822AD84D90660BEEAAE9A3F4B995FB77D221F8E"/>
+  <File wkspFile=".\GeneratedSource\cycfg_gatt_db.h" installFile=".\GeneratedSource\cycfg_gatt_db.h" checksum="8558ED3DBBA5135A023EB20E027BCA1A0C31D0F1"/>
+  <File wkspFile="wiced_platform.c" installFile="bt_sdk-1.1\components\BT-SDK\208XX-A1_Bluetooth\platforms\wiced_platform.c" checksum="D763531546398DBD49BEA02707C9723D58564A78"/>
+  <File wkspFile=".\app_bt_cfg.c" installFile=".\app_bt_cfg.c" checksum="B57FBF82A584D451D988C0119729EF883B8D7984"/>
+  <File wkspFile=".\empty_wiced_bt.c" installFile=".\empty_wiced_bt.c" checksum="C4C9BE073CA7E6C3E0D317256F2850F079439341"/>
+  <File wkspFile=".\app_bt_cfg.h" installFile=".\app_bt_cfg.h" checksum="96CA98340CE892EAB9EBA25087986E2AB1FA726F"/>
+  <artifact name="mainapp"/>
+</component_data>

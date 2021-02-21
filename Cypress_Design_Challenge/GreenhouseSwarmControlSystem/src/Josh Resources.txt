@@ -1,0 +1,25 @@
+https://en.wikipedia.org/wiki/Bluetooth_mesh_networking#Mesh_models
+
+Good overview of the model.
+
+
+The node address is also known as the "destination"
+
+
+
+https://community.cypress.com/thread/48210
+
+
+p_event->src == wiced_bt_mesh_core_get_local_addr()
+// gets the address of the device
+
+
+void mesh_vendor_server_send_data(wiced_bt_mesh_event_t *p_event, uint16_t opcode, uint8_t *p_data, uint16_t data_len)
+{
+    p_event->opcode = opcode;
+    wiced_bt_mesh_core_send(p_event, p_data, data_len, NULL); // <------ can be used for sending messages to specific addresses.
+}
+
+
+// creating events
+wiced_bt_mesh_create_reply_event(p_event)
