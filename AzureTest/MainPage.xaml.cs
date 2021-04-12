@@ -21,13 +21,13 @@ namespace AzureTest
         static async void SendDeviceToCloudMessagesAsync()
         {
 
-            string iotHubUri = "ElectricJosh.azure-devices.net";
-            string deviceKey = "q+LyxuvjoEnaEn4DVWSClfO0vX2p3F0mQwt4dbrXKbA=";
-            string deviceId = "AAs1qKYBsj2inp%2bha0RWjozirQkjYJDrAuk3WEaP1K7zpw%3d%3d";
+            string IoTHubHostName = ""; // Azure IoT Hub Hostname
+            string DevicePrimaryKey = ""; // Device Primary Key
+            string DeviceID = ""; // Device ID or Name
 
-            var deviceClient = DeviceClient.Create(iotHubUri,
+            var deviceClient = DeviceClient.Create(IoTHubHostName,
                     AuthenticationMethodFactory.
-                        CreateAuthenticationWithRegistrySymmetricKey(deviceId, deviceKey),
+                        CreateAuthenticationWithRegistrySymmetricKey(DeviceID, DevicePrimaryKey),
                     TransportType.Http1);
 
             var str = "Hello, Cloud!";
